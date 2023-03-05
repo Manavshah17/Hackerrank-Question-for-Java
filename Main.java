@@ -4,7 +4,7 @@ Java has 8 primitive data types; char, boolean, byte, short, int, long, float, a
 
 A byte is an 8-bit signed integer.
 A short is a 16-bit signed integer.
-An int is a 32-bit signed integer.
+An int is a 32-bit signed integer..
 A long is a 64-bit signed integer.
 Given an input integer, you must determine which primitive data types are capable of properly storing that input.
 
